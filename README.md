@@ -36,7 +36,7 @@ Sequence Diagram
 (upload all 6 diagrams)
 
 # USE CASE DIAGRAM:
-![alt text](image-1.png)
+![alt text](image-7.png)
 
 # Class Diagram:
 ![alt text](image-2.png)
